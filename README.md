@@ -7,4 +7,4 @@ A collection of practical C programming projects.
 
 | No. | Project Title              | Description                                                  | Link         |
 |-----|-----------------------------|--------------------------------------------------------------|--------------|
-| 1   | basic arithmetic calculator      |四則演算（+,-,*,/）ができるシンプルな計算機です。               | [view project](./calculator.c)|
+| 1   | basic arithmetic calculator      |四則演算（+,-,*,/）ができるシンプルな計算機です。               | [view project](./Basic-Arithmetic-Calculator/calculator.c)|
